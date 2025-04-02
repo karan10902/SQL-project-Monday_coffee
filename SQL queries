@@ -1,5 +1,6 @@
+'''sql
 USE monday_coffee;
-
+'''
 # Q1 : Total number of coffee consumr.
 
 SELECT SUM(total) AS total_coffee_consumer FROM 
